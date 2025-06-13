@@ -1,2 +1,1 @@
-# vue3-design-course
-VUE3设计
+## 2025 web前端框架课程设计
